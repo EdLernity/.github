@@ -10,7 +10,7 @@ Thank you for visiting our GitHub repository. We are EdLernity, a software devel
 
 EdLernity is not just an educational platform; it's a movement toward practical, applicable knowledge that transcends the boundaries of traditional learning. Our mission is to empower learners with the skills and insights needed to navigate the complexities of the modern world successfully.
 
-## How CanWeBe Helps Society
+## How EdLernity Helps You.
 
 Our mission is to create a positive impact on society through technology. Here's how we contribute:
 
