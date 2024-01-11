@@ -26,7 +26,7 @@ Our mission is to create a positive impact on society through technology. Here's
 
 - **Personalized Learning Paths:** Recognizing that each learner is unique, EdLernity offers personalized learning paths. Our platform adapts to individual preferences, ensuring that every student receives a tailored educational experience.
 
--**Community and Collaboration:** EdLernity fosters a sense of community and collaboration among learners. Through forums, group projects, and networking opportunities, students can connect with peers, mentors, and industry professionals.
+- **Community and Collaboration:** EdLernity fosters a sense of community and collaboration among learners. Through forums, group projects, and networking opportunities, students can connect with peers, mentors, and industry professionals.
 
 
 ## Feedback and Contact
