@@ -1,4 +1,4 @@
-# EdLernity - Transforming the way of Study.
+# EdLernity - Transforming the way of study.
 
 ![EdLernity](https://avatars.githubusercontent.com/u/153767535?s=400&u=faf44d6199b616ca7b9af224be4829df9a4d744f&v=4)
 
